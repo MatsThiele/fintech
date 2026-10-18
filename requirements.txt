@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+statsmodels
+xgboost
+ipykernel
+jupyter
+# Later steps (not needed for 01_data):
+# tensorflow      # optional LSTM
+# streamlit       # optional demo app

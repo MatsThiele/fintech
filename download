@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+
+# Downloaded / generated data is reproducible via notebook 01_data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
